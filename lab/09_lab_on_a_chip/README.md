@@ -10,7 +10,9 @@ Run this experiment in both dark and light room settings (record initial ambient
 
 Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
 
-### Main Code
+### Main Code  
+In this part, Zhijing Yao and Rongqian Chen help me a lot.  
+
     #include "APDS9960.h"
     #include "pio_i2c.h"
     #include "ws2812.h"
