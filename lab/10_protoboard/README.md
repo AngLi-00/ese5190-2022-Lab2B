@@ -3,7 +3,8 @@
 Add support for your custom circuit board to your sequencer, and give a demo.
 
 ### Main Code  
-In this part, Zhijing Yao and Rongqian Chen help me a lot.
+
+In this part, Zhijing Yao and Rongqian Chen helped me a lot.
 
     #include <stdio.h>
     #include <string.h>
